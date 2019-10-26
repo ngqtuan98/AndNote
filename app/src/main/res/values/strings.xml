@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">andnote</string>
+
+    /*Bottom_navigation*/
+    <string name="andNote_Bot_nav_Home">Home</string>
+    <string name="andNote_Bot_nav_Reminder">Reminder</string>
+    <string name="andNote_Bot_nav_To_Do">To do list</string>
+    <string name="andNote_Bot_nav_Note">Note</string>
+    <string name="andNote_Bot_nav_Setting">Setting</string>
+
+    /*Login_injection*/
+    <string name="andNote_error_password">Password must contain at least 6 characters.</string>
+    <string name="andNote_error_email">The input must be Email.</string>
+    <string name="andNote_error_loginFailed">Email or password is wrong.</string>
+
+    /*Home_Weather*/
+    <string name="andNote_weather_status">oC</string>
+    <string name="andNote_weather_description"></string>
+    <string name="andNote_weather_Thunderstorm">Hạn chế ra đường</string>
+    <string name="andNote_weather_Drizzle">Mưa phùn. "1 cơn mưa đi qua"</string>
+    <string name="andNote_weather_Rain">Nhớ mang dù nha bạn ơi</string>
+    <string name="andNote_weather_Snow">Ra chơi với tuyết nè</string>
+    <string name="andNote_weather_Cloud">Trời nhiều mây</string>
+    <string name="andNote_weather_Clear">Xách đít lên đi chơi</string>
+
+    /*Home_Event*/
+    <string name="andNote_No_events">Great, you have no events!!!.</string>
+    <string name="andNote_Date"></string>
+
+
+</resources>

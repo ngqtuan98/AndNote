@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989316172464",
+    "firebase_url": "https://dbandnote.firebaseio.com",
+    "project_id": "dbandnote",
+    "storage_bucket": "dbandnote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989316172464:android:88873d766fab4532438975",
+        "android_client_info": {
+          "package_name": "com.example.andnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989316172464-66tdmr5b31so6cg9m38n0nrg3kvtlaap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andnote",
+            "certificate_hash": "98a2cc6794999ff5126a1984aae7c1a2319513ad"
+          }
+        },
+        {
+          "client_id": "989316172464-2b104jnjgrge3p0gj3f2pullu7rbdegt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeb-aCcQJ3XDEQNc5RSyQZjDfYTET4xns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989316172464-2b104jnjgrge3p0gj3f2pullu7rbdegt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
